@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Ivan
 #### Soy programador phyton
-![Soy programador phyton](https://github.com/ivancitoacosta/ivancitoacosta/blob/6c4da18090a05acfd1750cb3f8466ac4633e195d/imagen_nanachi_saludo.jpg)
+![Soy programador phyton]
 
 Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio y contribuir a esta inmensa red llamada Internet.
 
@@ -15,6 +15,7 @@ Habilidades: Phyton/ SQL /  /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivancitoacosta)  
 
+(https://github.com/ivancitoacosta/ivancitoacosta/blob/d8c181b7effb89cd003d3807261c0b7571dc66be/imagen_nanachi.jpeg)
 
 <!--
 **ivancitoacosta/ivancitoacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
