@@ -2,11 +2,18 @@
 #### Soy programador phyton
 ![Soy programador phyton](https://steamcommunity.com/sharedfiles/filedetails/?id=2942461349)
 
-Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos utiles  para empresas o beneficio propio y contribuir a esta inmensa red llamada Internet.
+Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio y contribuir a esta inmensa red llamada Internet.
 
 Habilidades: Phyton/ SQL /  / 
 
-- 🔭 Estoy trabajando en this page. 
+- 🔭 Estoy trabajando en proyectos universitarios 
+- 🌱 Estoy aprendiendo Phyton 
+- 👯 Quiero colaborar con mr beast 
+- 💬 Pregúntame acerca de por que seria util hoy la gestapo 
+- 📫 Cómo contactarme: ivan_alejandro_a@hotmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivancitoacosta)  
 
 
 
