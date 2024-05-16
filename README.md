@@ -15,7 +15,7 @@ Habilidades: Phyton/ SQL /  /
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivancitoacosta)  
 
-!(https://github.com/ivancitoacosta/ivancitoacosta/blob/fd4c221252471b4ed45af1ac0e504e7eea2d4d84/nanachi_img.jpeg)
+![](https://github.com/ivancitoacosta/ivancitoacosta/blob/fd4c221252471b4ed45af1ac0e504e7eea2d4d84/nanachi_img.jpeg)
 
 <!--
 **ivancitoacosta/ivancitoacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
