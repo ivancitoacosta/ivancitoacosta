@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Ivan
 #### Soy programador phyton
-![Soy programador phyton](https://steamcommunity.com/sharedfiles/filedetails/?id=2942461349)
+![Soy programador phyton](https://github.com/ivancitoacosta/ivancitoacosta/blob/6c4da18090a05acfd1750cb3f8466ac4633e195d/imagen_nanachi_saludo.jpg)
 
 Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio y contribuir a esta inmensa red llamada Internet.
 
@@ -14,10 +14,6 @@ Habilidades: Phyton/ SQL /  /
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivancitoacosta)  
-
-
-
-
 
 
 <!--
