@@ -1,5 +1,5 @@
 ### Hola 👋, Mi nombre es Ivan
-#### **Soy programador phyton**
+#### **Soy programador**
 
 Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio y contribuir a esta inmensa red llamada Internet.
 
