@@ -1,12 +1,12 @@
 ### Hola 👋, Mi nombre es Ivan
 #### **Soy programador**
 
-Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio y contribuir a esta inmensa red llamada Internet.
+Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio.
 
-Habilidades: Phyton/ SQL /  / 
+Habilidades: Phyton/ SQL / C / 
 
-- 🔭 Estoy trabajando en proyectos universitarios 
-- 🌱 Estoy aprendiendo Phyton 
+- 🔭 Estoy trabajando en proyectos personales y universitarios 
+- 🌱 Estoy aprendiendo desarrollo web 
 - 👯 Quiero colaborar con mr beast 
 - 💬 Pregúntame acerca de por que seria util hoy la gestapo 
 - 📫 Cómo contactarme: ivan_alejandro_a@hotmail.com 
