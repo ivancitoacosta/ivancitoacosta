@@ -3,7 +3,7 @@
 
 Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio.
 
-Habilidades: Phyton/ SQL / C / 
+Habilidades: Phyton/ SQL / C / c# 
 
 - 🔭 Estoy trabajando en proyectos personales y universitarios 
 - 🌱 Estoy aprendiendo desarrollo web 
