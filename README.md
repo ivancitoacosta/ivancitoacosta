@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es Ivan
 #### **Soy desarrollador**
 
-Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio propio.
+Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permitan crear proyectos útiles  para empresas, código abierto o beneficio personal.
 
 Habilidades: Phyton/ SQL / C / c# 
 
