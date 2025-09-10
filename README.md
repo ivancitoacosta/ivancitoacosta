@@ -6,10 +6,10 @@ Actualmente estoy aprendiendo a utilizar herramientas tecnológicas que me permi
 Habilidades: Phyton/ SQL / C / c# 
 
 - 🔭 Estoy trabajando en proyectos personales y universitarios 
-- 🌱 Estoy aprendiendo desarrollo web 
+- 🌱 Estoy aprendiendo desarrollo en general
 - 👯 Quiero colaborar con mr beast 
-- 💬 Pregúntame acerca de por que seria util hoy la gestapo 
-- 📫 Cómo contactarme: ivan_alejandro_a@hotmail.com 
+- 💬 Pregúntame acerca del abismo
+- 📫 Cómo contactarme: https://ivancitoacosta.github.io/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivancitoacosta)  
